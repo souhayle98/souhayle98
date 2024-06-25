@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Souhayle  and I'm a Etudiant 1eme Annee BTS DSI, from Morocco</h2>
+<h2 align="left">Hi 👋! My name is Souhayle  and I'm a Etudiant 1ere Annee BTS DSI, from Morocco</h2>
 
 
 
