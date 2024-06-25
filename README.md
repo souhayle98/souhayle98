@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Souhayle  and I'm a Etudiant 1ere Annee BTS DSI, from Morocco</h2>
+<h2 align="left">Je m'appelle souhayl sayf et je suis étudiant en première année de BTS Développement de Systèmes d'Information. Passionné par les technologies de l'information et de la communication, j'ai choisi cette filière pour acquérir les compétences nécessaires pour concevoir, développer et maintenir des systèmes informatiques. Mon intérêt pour ce domaine s'est développé au fil du temps, et je suis enthousiaste à l'idée de plonger dans les différents aspects du développement logiciel, du réseau et de la gestion des bases de données. À travers ce parcours, je suis déterminé à acquérir les connaissances et les compétences qui me permettront de réussir dans l'industrie informatique en constante évolution.</h2>
 
 
 
