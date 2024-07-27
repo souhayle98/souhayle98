@@ -10,11 +10,8 @@
 
 ---
 
-### Suivez-moi sur :
 
-[![Twitter](https://img.shields.io/twitter/follow/votre_nom_utilisateur?label=Twitter&style=social)](https://twitter.com/votre_nom_utilisateur)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/votre_nom_utilisateur)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-orange)](https://www.instagram.com/votre_nom_utilisateur)
+
 
 
 
