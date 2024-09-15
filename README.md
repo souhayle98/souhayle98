@@ -1,6 +1,6 @@
 🖐️ Bonjour à tous, je m'appelle Souhayl Sayf! 🙋‍♂️
 
-🎓 Actuellement en première année de BTS Développement de Systèmes d'Information, je suis un passionné des technologies de l'information et de la communication. Mon choix pour cette filière découle de ma fascination pour la création et la maintenance de systèmes informatiques sophistiqués. Mon intérêt pour ce domaine s'est solidifié au fil du temps, et je suis excité à l'idée d'explorer les nuances du développement logiciel, des réseaux et de la gestion des bases de données.
+🎓 Actuellement en première année de BTS Développement des applications informatiques, je suis un passionné des technologies de l'information et de la communication. Mon choix pour cette filière découle de ma fascination pour la création et la maintenance de systèmes informatiques sophistiqués. Mon intérêt pour ce domaine s'est solidifié au fil du temps, et je suis excité à l'idée d'explorer les nuances du développement logiciel, des réseaux et de la gestion des bases de données.
 
 💻 Je suis déterminé à acquérir les connaissances et les compétences nécessaires pour non seulement réussir dans cette industrie dynamique, mais aussi pour apporter des contributions significatives à des projets innovants. Chaque ligne de code est une opportunité pour moi d'apprendre et de grandir.
 
