@@ -9,7 +9,7 @@
 ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═╝╚═╝  ╚═╝    ╚═════╝ ╚══════╝  ╚═══╝      
 ```
 
-### Data Science & AI Bachelor of Excellence Student (promo 2026) · Technicien Supérieure en développement des systèmes d'information (promo 2025)
+### Bachelor of Excellence in Artificial Intelligence and Data Science Student (promo 2026) · Technicien Supérieure en développement des systèmes d'information (promo 2025)
 #### 📍 Casablanca, Maroc
 </div>
 
