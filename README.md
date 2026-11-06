@@ -3,9 +3,9 @@
 # 👋 Salut, je suis Souhail Sif
 
 ###  Data Engineer | Pipelines de données | Cloud & Big Data
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6d93ab&center=true&vCenter=true&width=600&lines=Data+Engineer;Building+scalable+data+pipelines;ETL+%7C+ELT+%7C+Big+Data+%7C+Cloud" alt="Typing SVG" />
-</p>
+```python
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6d93ab&center=true&vCenter=true&width=600&lines=Data+Engineer;Building+scalable+data+pipelines;ETL+%7C+ELT+%7C+Big+Data+%7C+Cloud)
+```
 </div>
 
 ---
