@@ -16,7 +16,7 @@ Data Engineer passionné par la conception et l'automatisation de pipelines de d
 - 🌱 J'apprends en continu : Lakehouse, dbt, Data Quality & Data Observability
 - 💬 Demande-moi des questions sur : SQL, Python, Spark, Airflow, Kafka
 - 📍 Basé à Casablanca, Maroc 🇲🇦
-- 📫 Me contacter : [email@example.com](mailto:sifsouhail26@example.com)
+- 📫 Me contacter : [sifsouhail26@gmail.com](mailto:sifsouhail26@example.com)
 
 ---
 
@@ -79,7 +79,7 @@ Data Engineer passionné par la conception et l'automatisation de pipelines de d
 
 <p align="center">
   <a href="https://linkedin.com/in/TON_PROFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:sifsouhail26@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://TON_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
