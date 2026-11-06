@@ -3,10 +3,7 @@
 # 👋 Salut, je suis Souhail Sif
 
 ###  Data Engineer | Pipelines de données | Cloud & Big Data
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Data+Engineer;Building+scalable+data+pipelines;ETL+%7C+ELT+%7C+Big+Data+%7C+Cloud)
- 
-![Profile Views](https://komarev.com/ghpvc/?username=TON_USERNAME&label=Profile+views&color=2f81f7&style=flat)
-![Followers](https://img.shields.io/github/followers/TON_USERNAME?label=Followers&style=flat&color=2f81f7)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3a5a73&center=true&vCenter=true&width=600&lines=Data+Engineer;Building+scalable+data+pipelines;ETL+%7C+ELT+%7C+Big+Data+%7C+Cloud)
 </div>
 
 ---
